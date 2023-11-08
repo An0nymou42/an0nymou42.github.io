@@ -2,9 +2,8 @@
 
 ![img.png](https://i.postimg.cc/MGjnDN8j/img.png)
 
-> [!NOTE]
 > 如果你发现了这里，这大概说明你是会用搜索引擎的幸运儿  
-> 而且本页面幸运的被搜索引擎收录了:sunglasses:
+> 而且本页面幸运的被搜索引擎收录了  
 
 ## 汉化&汉化移植部分  
 1. TranslateScript[^1]  全部
